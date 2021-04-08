@@ -4,16 +4,16 @@
 
 This website is a basic html-css-bootsrap page that contains an "about me", "contact" and "portfolio" page. 
 
-Originally created for assignment #2, this page has been updated to include slightly more polished code and information about projects recently created in class.
+Originally created for assignment #2, this page has been updated to include slightly more polished code, social media links, and information about projects recently created in class.
 
 
 ## Installation
 
-Clone the repo at: https://github.com/mpkahn/portfolio2 and view CSS + HTML in code visualizer. 
+Clone the repo at: https://github.com/mpkahn/portfolio3 and view CSS + HTML in code visualizer. 
 
 ## Usage 
 
-Visit site at https://mpkahn.github.io/portfolio2/.
+Visit site at https://mpkahn.github.io/portfolio3/.
 Use navbar to navigate to the three pages pages of the website. 
 If website is condensed, use collapse-menu to expand navbar and select from there
 Click on portfolio links to visit the sites referenced in each card
